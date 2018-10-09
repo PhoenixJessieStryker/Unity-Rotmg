@@ -61,56 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\ArmRotation.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Camera2DFollow.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\MoveTrail.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Parallaxing.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Tiling.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video08\Weapon.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video09\Weapon.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video10\Weapon.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video11\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video11\Player.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video12\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video13\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video14\EnemyAI.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video15\Enemy.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video18\CameraShake.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video18\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video18\Weapon.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video19\Enemy.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video19\StatusIndicator.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video20\Enemy.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video20\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video20\Player.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video21-22\WaveUI.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video23\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video23\GameOverUI.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video23\LivesCounterUI.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video24\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video24\MenuManager.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video25\AudioManager.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video25\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\AudioManager.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\Enemy.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\GameOverUI.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\MenuManager.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\Player.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video26\Weapon.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video28\Enemy.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video28\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video28\MoneyCounterUI.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video28\Player.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video29\Player.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video29\PlayerStats.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video29\UpgradeMenu.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video30\Enemy.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video30\GameMaster.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\2D Platformer\Video30\UpgradeMenu.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\Fading.cs" />
-    <Compile Include="Assets\2d-mega-pack\Scripts\WaveSpawner.cs" />
-    <None Include="Assets\2d-mega-pack\README.txt" />
+    <Compile Include="Assets\PlayerController.cs" />
+    <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Pheonix/.babun/cygwin/home/Pheonix/workspace/Projects/Unity-Rotmg/RotMG Adventure Scale/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
